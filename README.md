@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adnan986
-- 👀 I’m interested in Coding.
+- 👀 I’m interested in CyberSecurity.
 - 🌱 I’m currently learning Object Oriented Programming(OOP)
 
 <!---
